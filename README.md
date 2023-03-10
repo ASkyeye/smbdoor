@@ -9,7 +9,7 @@
 ### `Windows 11 now works; but will need to do further testing`
 
 
-- idk a bit un-sure
+- idk a bit un-sure ⚠️ note this is failing for some reason (??)
 - https://github.com/fengjixuchui/smbdoor/pull/1/files
 
 
